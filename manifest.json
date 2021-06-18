@@ -1,0 +1,52 @@
+{
+    "name": "Food App",
+    "short_name": "FoodApp",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FFE9D2",
+    "theme_color": "#FFE1C4",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/img/icons/food-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/img/icons/food-384.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "/img/icons/food-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/img/icons/food-152.png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "/img/icons/food-144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/img/icons/food-128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/img/icons/food-96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/img/icons/food-72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        }
+    ]
+
+}
